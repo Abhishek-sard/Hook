@@ -1,11 +1,11 @@
+import Quiz from "./components/Input/Quiz"
 
-import './App.css'
 
 function App() {
 
   return (
     <>
- 
+    <Quiz/>
     </>
   )
 }
