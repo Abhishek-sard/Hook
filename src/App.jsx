@@ -1,3 +1,4 @@
+import ColorMoving from "./components/ColorPointer/ColorMoving"
 import Quiz from "./components/Input/Quiz"
 import StateStructure from "./components/Structure/StateStructure"
 
@@ -8,6 +9,7 @@ function App() {
     <>
     <Quiz/>
     <StateStructure/>
+    <ColorMoving/>
     </>
   )
 }
